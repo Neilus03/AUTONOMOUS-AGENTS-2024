@@ -1,0 +1,13 @@
+{
+  "Server": {
+    "host": "127.0.0.1",
+    "port": 4649
+  },
+  "AgentParameters": {
+    "name": "Drone_1",
+    "type": "AAgentDrone",
+    "spawn_point": 0,
+    "debug_mode": true,
+    "ray_perception_sensor_param": [1,15,0,5]
+  }
+}
